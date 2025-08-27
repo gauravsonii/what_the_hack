@@ -7,11 +7,11 @@ const Footer = () => {
       <p className="text-primary/90 mb-2 md:mb-0">
         Brought to you by{" "}
         <Link
-          href="https://lakshb.dev"
+          href="https://gauravsoni.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="font-medium underline underline-offset-4 transition duration-150 ease-linear md:hover:text-primary/70">
-          lakshaybhushan
+          gauravsoni
         </Link>
       </p>
 
